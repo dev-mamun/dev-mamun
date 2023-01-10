@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**dev-mamun/dev-mamun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Abdullah Al Mamun, a **Full Stack Web Developer** from Bangladesh. <br>
 
-Here are some ideas to get you started:
+**Front-End**: JavaScript, Bootstrap, jQuery, React, Redux, HTML5, CSS3 <br>
+**Back-End**: PHP, Python, Ruby, Ruby on Rails <br>
+**Tools & Methods**: Git, Github, Gitflow, Chrome Dev Tools <br>
+**Professional**: Freelance Programmer, Remote Pair-Programming, Teamwork <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[:mailbox: Email](mailto:mamun1214@gmail.com) 
+[:link: Linkedin](https://www.linkedin.com/in/dev-mamun/) 
+[:link: HackerRank](https://www.hackerrank.com/mamun1214) 
+[:link: StackOverFlow](https://stackoverflow.com/users/1989432/abdullah)
