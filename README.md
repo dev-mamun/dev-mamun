@@ -13,4 +13,4 @@ My name is Abdullah Al Mamun, a **Full Stack Web Developer** from Bangladesh. <b
 [:link: HackerRank](https://www.hackerrank.com/mamun1214) 
 [:link: StackOverFlow](https://stackoverflow.com/users/1989432/abdullah)
 
-![](https://komarev.com/ghpvc/?username=dev-mamun&color=green)
+![](https://komarev.com/ghpvc/?username=dev-mamun&color=green&style=plastic&label=VIEWS)
