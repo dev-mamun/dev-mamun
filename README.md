@@ -33,6 +33,7 @@ My name is Abdullah Al Mamun, a **Full Stack Web Developer** from Bangladesh. <b
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" **alt="jQuery" width="40" height="40" />
 </div>
 
 
