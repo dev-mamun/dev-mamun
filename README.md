@@ -19,9 +19,9 @@ My name is Abdullah Al Mamun, a **Full Stack Web Developer** from Bangladesh. <b
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev-mamun&column=8&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mamun&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&card_width=400px&layout=compact) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mamun&theme=transparent&langs_count=10&count_private=true&show_icons=true&card_width=465px&layout=compact&include_all_commits=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-mamun&theme=default&hide_border=false&card_width=400px&include_all_commits=true&count_private=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mamun&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&card_width=400px&line_height=25px) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mamun&theme=transparent&langs_count=10&count_private=true&show_icons=true&card_width=350px&layout=compact&include_all_commits=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-mamun&theme=default&hide_border=false&card_width=650px&include_all_commits=true&count_private=true&layout=compact)
 
 ### Languages and Tools:
 <div>
