@@ -20,7 +20,7 @@ My name is Abdullah Al Mamun, a **Full Stack Web Developer** from Bangladesh. <b
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mamun&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&card_width=480px&line_height=24px) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mamun&theme=transparent&langs_count=8&count_private=true&show_icons=true&card_width=350px&layout=compact&include_all_commits=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mamun&theme=transparent&langs_count=8&count_private=true&show_icons=true&card_width=380px&layout=compact&include_all_commits=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-mamun&theme=default&hide_border=false&card_width=650px&include_all_commits=true&count_private=true&layout=compact)
 
 ### Languages and Tools:
